@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Welcome to Sean's site documentation
 
-You can use the [editor on GitHub](https://github.com/seanrasm/seanrasm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the documentation file that has all the information you need to know about the site located at:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+* sotd.us/seanhenry/mod5cp
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+The changes that were made over the course of the site can be found below
 
-# Header 1
-## Header 2
-### Header 3
+### Summary of the site
 
-- Bulleted
-- List
+The purpose of this site is to simply showcase the capabilities of jquery mobile. In it's simplest form, it is an excellent practice space for any web developer to come, play around, test new ideas, break things, fix things, get better, get frustrated, and find a solution to whatever problem they're trying to solve.
 
-1. Numbered
-2. List
+The site has theme of "Free Food". This idea will be implemented over time and will be showcased once more API documentation is available. Ultimately, the plan is to pull information from this API: 
 
-**Bold** and _Italic_ and `Code` text
+* https://postmates.com/developer/docs
 
-[Link](url) and ![Image](src)
+This will begin to fill in the grid that has begun to be build within the class this all started in, "Mobile Development" with Professor Tanner. With all of the information being presented more as, *where we are going*, let us think of the sites current version as more of something that's along the lines of *this is a grid, that will ultimately bring me food*.
+
+--- 
+
+### Site Structure and Functionality 
+
+The structure of the site can be thought of as grid that has a bit more bells an whistles. Being that all of the code is public and open source, I suggest that you take a look to see what we're working with. 
+
+The framework is handled primarily by the classes and framework of Jquery mobile and bootstrap. The overall presentation of the site is a simple horizantal navbar that is followed by a javascript slideshow. Beneath is more navigational pages that showcase different classes that are found within the jquery mobile framework. 
+
+Beneath the showcased jquery mobile navigational buttons/sliders is a slide bar that is placed, ultimately, for donational purposes. After all, the end goal here is free food - that's worth a couple bucks of donated dough in my opinion.
+
+As you move down the page more we find a grid that has button that open, yet again, a jquery mobile panel. The panel is a side navigational bar that will eventually have live links directing to other portions of the site.
+
+Each page is generated from jquery mobile anchor elements for convienent sliding and back button fucntionality.
+
+---
+
+Below you can find a list of some javascript variables you can expect to see (*located on the* `js/scripts.js` *page*) 
+
+```
+    var sean = localStorageSelector
+    var key = inputID
+    var input = StoredValue
+    var s = VariableToDisplayLocalStorageInList
+    var n = slideShowNumber
+    var i = indexOfSlideShow
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+--- 
 
-### Jekyll Themes
+### Link to Production Site
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seanrasm/seanrasm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Free Food](http://sotd.us/seanhenry/mod5cp/) and ![SeanCreator(http://sotd.us/seanhenry/mod2cp/images/seannew.jpg)
+
+--- 
+
+tps://github.com/seanrasm/seanrasm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sean Henry - Creator - Student - Food Lover
+**if3xists@gmail.com**
