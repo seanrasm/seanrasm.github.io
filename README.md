@@ -18,19 +18,19 @@ The site has theme of "Free Food". This idea will be implemented over time and w
 
 * https://postmates.com/developer/docs
 
-This will begin to fill in the grid that has begun to be build within the class this all started in, "Mobile Development" with Professor Tanner. With all of the information being presented more as, *where we are going*, let us think of the sites current version as more of something that's along the lines of *this is a grid, that will ultimately bring me food*.
+This will begin to fill in the grid that has begun to be built within the class this all started in, "Mobile Development" with Professor Tanner. With all of the information being presented more as, *where we are going*, let us think of the sites current version as more of something that's along the lines of *this is a grid, that will ultimately bring me food*.
 
 --- 
 
 ### Site Structure and Functionality 
 
-The structure of the site can be thought of as grid that has a bit more bells an whistles. Being that all of the code is public and open source, I suggest that you take a look to see what we're working with. 
+The structure of the site can be thought of as grid that has a bit more bells and whistles. Being that all of the code is public and open source, I suggest that you take a look to see what we're working with. 
 
 The framework is handled primarily by the classes and framework of Jquery mobile and bootstrap. The overall presentation of the site is a simple horizantal navbar that is followed by a javascript slideshow. Beneath is more navigational pages that showcase different classes that are found within the jquery mobile framework. 
 
 Beneath the showcased jquery mobile navigational buttons/sliders is a slide bar that is placed, ultimately, for donational purposes. After all, the end goal here is free food - that's worth a couple bucks of donated dough in my opinion.
 
-As you move down the page more we find a grid that has button that open, yet again, a jquery mobile panel. The panel is a side navigational bar that will eventually have live links directing to other portions of the site.
+As you move down the page more we find a grid that has button that opens, yet again, a jquery mobile panel. The panel is a side navigational bar that will eventually have live links directing to other portions of the site.
 
 Each page is generated from jquery mobile anchor elements for convienent sliding and back button fucntionality.
 
