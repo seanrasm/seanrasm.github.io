@@ -52,7 +52,9 @@ Below you can find a list of some javascript variables you can expect to see (*l
 
 ### Link to Production Site
 
-[Free Food](http://sotd.us/seanhenry/mod5cp/) and ![SeanCreator(http://sotd.us/seanhenry/mod2cp/images/seannew.jpg)
+[Free Food](http://sotd.us/seanhenry/mod5cp/)
+
+Site Creator: ![http://sotd.us/seanhenry/mod2cp/images/seannew.jpg]
 
 --- 
 
