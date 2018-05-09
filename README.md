@@ -54,13 +54,13 @@ Below you can find a list of some javascript variables you can expect to see (*l
 
 [Free Food](http://sotd.us/seanhenry/mod5cp/)
 
-Site Creator: ![http://sotd.us/seanhenry/mod2cp/images/seannew.jpg]
+Site Creator: !(http://sotd.us/seanhenry/mod2cp/images/seannew.jpg)
 
 --- 
 
-tps://github.com/seanrasm/seanrasm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Sean Henry - Creator - Student - Food Lover
+
 **if3xists@gmail.com**
